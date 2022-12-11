@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @NuraiymSadyrbaeva
-- 🌱 I’m currently learnin  HTML, CSS, JS
+- 👋 Hi, I’m @NuraiymSadyrbaeva 
+-   🔍  Ich suche eine Ausbildung
+- 🌱 Ich lerne gerade HTML, CSS, JS
 -  🥰  Ich habe Interesse an den Bereichen UI/UX
 - 📘 Meine UX Arbeiten(schauen Sie an ) https://www.figma.com/file/B3u2l1tvyDhsj3uM0r3Nv3/Meine-UX-Arbeiten?node-id=0%3A1&t=yOJVb75R3rRohVx6-1
 - 📫 So erreichen Sie mich: nuraiym.sadyrbaeva@gmail.com
+- 📞 +4915238988479
 ---
 
 
