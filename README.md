@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NuraiymSadyrbaeva
 - 🌱 I’m currently learning  CSS, JS
-- 📫 How to reach me:  nuraiym.sadyrbaeva@gmail.com
+- 📫 So erreichen Sie mich: nuraiym.sadyrbaeva@gmail.com
+-  🥰  Ich habe  aIntereasse an den Bereichen UI/UX
 ---
 
 <!---
